@@ -1,6 +1,8 @@
 readme.md
 --------------
 
+[![NPM](https://nodei.co/npm/each-cons.png)](https://nodei.co/npm/each-cons/)
+
 [each_cons](http://ruby-doc.org/core-2.2.2/Enumerable.html#method-i-each_cons) for node
 
 `npm install each-cons`
