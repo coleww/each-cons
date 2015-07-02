@@ -1,7 +1,5 @@
 var tap = require('tape')
 var eachCons = require('./')
-var equals = require('./array-equal')
-
 
 tap.test('returns consecutive elements', function(t){
   var arr = [1, 2, 3]
