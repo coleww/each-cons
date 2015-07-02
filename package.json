@@ -16,7 +16,7 @@
   "license": "MIT",
   "devDependencies": {
     "tape": "^4.0.0"
-  }
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/coleww/each-cons"
