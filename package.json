@@ -1,0 +1,28 @@
+{
+  "name": "each-cons",
+  "version": "1.0.0",
+  "description": "Array#each_cons for node",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "each",
+    "consecutive",
+    "each_cons",
+    "array"
+  ],
+  "author": "Cole Willsea <coleww@gmail.com> (http://colewillsea.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^4.0.0"
+  }
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coleww/each-cons"
+  },
+  "bugs": {
+    "url": "https://github.com/coleww/each-cons/issues"
+  },
+  "homepage": "https://github.com/coleww/each-cons"
+}
