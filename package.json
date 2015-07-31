@@ -4,7 +4,7 @@
   "description": "Array#each_cons for node",
   "main": "index.js",
   "scripts": {
-    "test": "node test.js"
+    "test": "standard && node test.js"
   },
   "keywords": [
     "each",
@@ -15,6 +15,7 @@
   "author": "Cole Willsea <coleww@gmail.com> (http://colewillsea.com/)",
   "license": "MIT",
   "devDependencies": {
+    "standard": "^4.5.4",
     "tape": "^4.0.0"
   },
   "repository": {
